@@ -43,12 +43,8 @@
     details: '<a href="#eve-fleet-manager">#pet-efm</a>'
   }],
   goals: [{
-    type: 'main',
-    name: 'Find new job/project.'
-    until: new Date('2022-05-01T00:00:00Z')
-  }, {
     type: 'optional',
-    name: 'Get an idea of interesting pet project.'
+    name: 'Rewrite pet project using new stack.'
   }],
 }</code></pre>
 
